@@ -1,0 +1,32 @@
+[
+    {
+        "amount": 500.0,
+        "category": "food",
+        "date": "2026-04-19",
+        "note": "lunch"
+    },
+    {
+        "amount": 200.0,
+        "category": "vehicles",
+        "date": "2026-04-19",
+        "note": "travel"
+    },
+    {
+        "amount": 100.0,
+        "category": "Food",
+        "date": "2026-08-11",
+        "note": "Lunch"
+    },
+    {
+        "amount": 250.0,
+        "category": "Groceries",
+        "date": "2026-08-11",
+        "note": "Weekly shopping"
+    },
+    {
+        "amount": 500.0,
+        "category": "saving",
+        "date": "2026-08-11",
+        "note": "food"
+    }
+]

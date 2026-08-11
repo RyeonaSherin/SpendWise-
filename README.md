@@ -80,6 +80,9 @@ The main purpose of SpendWise is to provide a simple way to record and organize 
 - 💾 Database integration
 - 🌐 Web-based interface
 
+## Screenshot
+<img width="1085" height="607" alt="Image" src="https://github.com/user-attachments/assets/f7ad558e-b9de-4e60-9453-61afe3263a69" />
+
 ## 👩‍💻 Author
 
 Ryeona Sherin R
